@@ -1,61 +1,4 @@
-<!-- Message -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fhelp&title=Visitors&edge_flat=false"/></a>
 
-
-**Help Bangladeshi Students 🙏**
-
-Bangladesh is currently facing significant internal unrest. The government, in collaboration with the Student League and police forces, is preparing to attack general students who are protesting against the discriminatory quota system in government jobs and sectors. We urgently need international media attention to shed light on our situation. **Not only university but college students also shed blood on 16.07.24**
-
-**Please help us ensure that if violence occurs, the world will be aware. We need the support of the international media.**
-
-Please focus on the plight of Bangladeshi students.
-
-Since people from almost all parts of the world are here, I want to spread this message to everyone.
-
-![image](https://github.com/user-attachments/assets/a568a1a3-c1a6-489f-bfef-a285b42436a4)
-
-Regards,
-
-**A Student**
-<!-- // -->
------
-<!-- Zphisher -->
-
-<p align="center">
-  <img src=".github/misc/logo.png">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-htr--tech-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
-</p>
-
-<p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
-
-##
-
-<h3><p align="center">Disclaimer</p></h3>
-
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
-
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
-
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
-
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
-
-##
 
 ### Features
 
@@ -74,7 +17,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/karthikkl13/kk-phishing-tool.git
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
