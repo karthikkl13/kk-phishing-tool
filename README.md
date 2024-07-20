@@ -20,10 +20,10 @@
   git clone --depth=1 https://github.com/karthikkl13/kk-phishing-tool.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `kk-tool.sh` -
   ```
-  $ cd zphisher
-  $ bash zphisher.sh
+  $ cd kk-phishing-tool
+  $ bash kk-tool.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
